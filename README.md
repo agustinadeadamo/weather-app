@@ -18,11 +18,9 @@
 
 ## Para iniciar la aplicación 
 
-1 - Clonar repositorio 
+1 - Dirigirse a ui-client
 
-2 - Dirigirse a ui-client
-
-3 - Ejecute el comando npm run dev
+2 - Ejecute el comando npm run dev
 
 ## Para iniciar los tests
 
