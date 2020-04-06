@@ -1,0 +1,7 @@
+/ui-client/node_modules
+/server/node_modules
+/server/package-lock.json
+/ui-client/package-lock.json
+
+
+
